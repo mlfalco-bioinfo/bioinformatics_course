@@ -1,1 +1,16 @@
+{
+    "name": "Debian Codespace",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter"
+            ]
+        }
+    },
+    "postCreateCommand": "echo 'Codespace pronto para uso!'"
+}
 
