@@ -33,7 +33,7 @@ O curso terá **16 horas** de duração, divididas em dois dias, com metade do t
    - Conceitos gerais e serviços disponíveis (AWS, Google Cloud, Azure)
    - Execução de pipelines na nuvem com Snakemake e Nextflow
 
-7. **Instalação e Uso de Softwares Bioinformáticos**
+7. **Instalação e Uso de Softwares Bioinformática**
    - Softwares essenciais: FastQC, Trimmomatic, BWA, Samtools
    - Passo a passo de instalação e utilização
   
