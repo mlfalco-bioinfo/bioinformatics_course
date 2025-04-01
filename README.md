@@ -36,6 +36,14 @@ O curso terá **16 horas** de duração, divididas em dois dias, com metade do t
 7. **Instalação e Uso de Softwares Bioinformáticos**
    - Softwares essenciais: FastQC, Trimmomatic, BWA, Samtools
    - Passo a passo de instalação e utilização
+  
+     
+## 🖥️ Ambiente do GitHub Codespaces
+O ambiente prático do curso foi configurado usando **GitHub Codespaces** baseado em um contêiner **Docker**, com o sistema operacional **Debian (bookworm-slim)**.
+A imagem utilizada pode ser acessada no Docker Hub pelo link:
+
+[Debian Bookworm-Slim](https://hub.docker.com/layers/library/debian/bookworm-slim/images/sha256-a6bd717f9210e22dba2a96b4b1bd5b5de06a7d18980996112fb14c0c13b6d699)
+
 
 ## 👨‍🏫 Autor
 **Mateus Falco**, professor de Bioinformática, atuando na área de ensino e pesquisa em genômica e metagenômica.
