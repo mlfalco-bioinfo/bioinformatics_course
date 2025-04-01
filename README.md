@@ -47,6 +47,7 @@ git clone https://github.com/mlfalco-bioinfo/bioinformatics_course.git
 cd bioinformatics_course
 ```
 O ambiente prático pode ser acessado via **GitHub Codespaces**
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlfalco-bioinfo/bioinformatics_course).
 
 ## 📢 Como Contribuir
