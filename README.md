@@ -10,7 +10,7 @@ O curso terá **16 horas** de duração, divididas em dois dias, com metade do t
    - Definição e aplicações em genômica e metagenômica
    - Workflow típico de uma análise bioinformática
 
-2. **Uso do Terminal Linux**
+2. [**Uso do Terminal Linux**](https://github.com/mlfalco-bioinfo/bioinformatics_course/tree/main/modulos/terminal)
    - Comandos básicos para navegação e manipulação de arquivos
    - Introdução ao Bash scripting
    - Gerenciamento de permissões e processos
