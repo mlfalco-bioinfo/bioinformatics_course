@@ -43,8 +43,8 @@ O curso terá **16 horas** de duração, divididas em dois dias, com metade do t
 ## 🔗 Como Acessar o Material
 Todo o conteúdo do curso está disponível neste repositório. Para acessar:
 ```bash
-git clone https://github.com/usuario/repositorio.git
-cd repositorio
+git clone https://github.com/mlfalco-bioinfo/bioinformatics_course.git
+cd bioinformatics_course
 ```
 O ambiente prático pode ser acessado via **GitHub Codespaces**.
 
