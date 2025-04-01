@@ -31,7 +31,7 @@ O curso terá **16 horas** de duração, divididas em dois dias, com metade do t
 
 6. **Computação em Nuvem**
    - Conceitos gerais e serviços disponíveis (AWS, Google Cloud, Azure)
-      - Execução de pipelines na nuvem com [Snakemake](https://images.app.goo.gl/X5MGdY2Drvh2PmHk9) e [Nextflow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnextflow-io%2Fnextflow&psig=AOvVaw0Oycchd9uHcVXkwO02A2BR&ust=1743634295484000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCPDirIj2t4wDFQAAAAAdAAAAABAE)
+      - Execução de pipelines na nuvem com ![Snakemake](https://images.app.goo.gl/X5MGdY2Drvh2PmHk9) e ![Nextflow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnextflow-io%2Fnextflow&psig=AOvVaw0Oycchd9uHcVXkwO02A2BR&ust=1743634295484000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCPDirIj2t4wDFQAAAAAdAAAAABAE)
 
 7. **Instalação e Uso de Softwares Bioinformática**
    - Softwares essenciais: FastQC, Trimmomatic, BWA, Samtools
