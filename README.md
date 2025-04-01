@@ -31,7 +31,7 @@ O curso terá **16 horas** de duração, divididas em dois dias, com metade do t
 
 6. **Computação em Nuvem**
    - Conceitos gerais e serviços disponíveis (AWS, Google Cloud, Azure)
-      - Execução de pipelines na nuvem com ![Snakemake](https://images.app.goo.gl/X5MGdY2Drvh2PmHk9) e ![Nextflow](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/img/nextflow_logo.png)
+      - Execução de pipelines na nuvem com Snakemake e Nextflow.
 
 7. **Instalação e Uso de Softwares Bioinformática**
    - Softwares essenciais: FastQC, Trimmomatic, BWA, Samtools
