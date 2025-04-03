@@ -25,7 +25,7 @@ O curso terá **16 horas** de duração, divididas em dois dias, com metade do t
    - Instalação e comandos básicos do Docker
    - Execução de pipelines bioinformáticos com Docker
 
-5. **Acesso a Bancos de Dados Públicos**
+5. [**Acesso a Bancos de Dados Públicos**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/db/README.md)
    - Introdução a bancos de dados como NCBI, SRA e Ensembl
    - Ferramentas para obtenção e manipulação de dados biológicos
 
