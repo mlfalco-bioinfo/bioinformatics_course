@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Curso de Bioinformática para Genômica e Metagenômica
 
 ##  Sobre o Curso
