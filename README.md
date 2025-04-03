@@ -49,6 +49,9 @@ A imagem utilizada pode ser acessada no **DockerHub**
 ##  Autor
 **Mateus Falco**, professor de Bioinformática, atuando na área de ensino e pesquisa em genômica e metagenômica.
 
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?logo=academia)](http://lattes.cnpq.br/6393746504881064)
+
+
 ##  Como Acessar o Material
 Todo o conteúdo do curso está disponível neste repositório. Para acessar:
 ```bash
