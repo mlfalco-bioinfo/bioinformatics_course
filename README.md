@@ -1,11 +1,11 @@
 # Curso de Bioinformática para Genômica e Metagenômica
 
-## 📌 Sobre o Curso
+##  Sobre o Curso
 Este curso introdutório de bioinformática é voltado para aplicações em genômica e metagenômica, abordando desde conceitos básicos até práticas avançadas. O objetivo é capacitar os participantes no uso de ferramentas computacionais essenciais para análise de dados biológicos, incluindo terminal Linux, controle de versões com GitHub, uso de contêineres Docker, acesso a bancos de dados públicos e computação em nuvem.
 
 O curso terá **16 horas** de duração, divididas em dois dias, com metade do tempo dedicado à teoria e a outra metade a exercícios práticos usando um ambiente virtual configurado no **GitHub Codespaces**.
 
-## 📚 Tópicos Abordados
+##  Tópicos Abordados
 1. [**Introdução à Bioinformática**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/intro/README.md)
    - Definição e aplicações em genômica e metagenômica
    - Workflow típico de uma análise bioinformática
@@ -38,16 +38,16 @@ O curso terá **16 horas** de duração, divididas em dois dias, com metade do t
    - Passo a passo de instalação e utilização
   
      
-## 🖥️ Ambiente do GitHub Codespaces
+##  Ambiente do GitHub Codespaces
 O ambiente prático do curso foi configurado usando **GitHub Codespaces** baseado em um contêiner **Docker**, com o sistema operacional **Debian (bookworm-slim)**.
 
 A imagem utilizada pode ser acessada no **DockerHub**:   [![Debian Bookworm-Slim](https://img.shields.io/badge/Debian-Bookworm--Slim-blue?logo=debian)](https://hub.docker.com/layers/library/debian/bookworm-slim/images/sha256-a6bd717f9210e22dba2a96b4b1bd5b5de06a7d18980996112fb14c0c13b6d699)
 
 
-## 👨‍🏫 Autor
+##  Autor
 **Mateus Falco**, professor de Bioinformática, atuando na área de ensino e pesquisa em genômica e metagenômica.
 
-## 🔗 Como Acessar o Material
+##  Como Acessar o Material
 Todo o conteúdo do curso está disponível neste repositório. Para acessar:
 ```bash
 git clone https://github.com/mlfalco-bioinfo/bioinformatics_course.git
@@ -57,7 +57,5 @@ O ambiente prático pode ser acessado via **GitHub Codespaces**.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlfalco-bioinfo/bioinformatics_course)
 
-## 📢 Como Contribuir
+##  Como Contribuir
 Caso queira sugerir melhorias ou relatar problemas no material, sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
-
-🚀 **Vamos juntos explorar o mundo da bioinformática!**
