@@ -15,7 +15,7 @@ O curso terá **16 horas** de duração, divididas em dois dias, com metade do t
    - Introdução ao Bash scripting
    - Gerenciamento de permissões e processos
 
-3. **GitHub e Controle de Versão**
+3. [**GitHub e Controle de Versão**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/github/README.md)
    - Conceitos fundamentais do Git
    - Criação e gerenciamento de repositórios
    - Utilização do GitHub Codespaces
