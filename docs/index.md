@@ -1,5 +1,3 @@
-# Curso de Bioinformática para Genômica e Metagenômica
-
 ##  Sobre o Curso
 Este curso introdutório de bioinformática é voltado para aplicações em genômica e metagenômica, abordando desde conceitos básicos até práticas avançadas. O objetivo é capacitar os participantes no uso de ferramentas computacionais essenciais para análise de dados biológicos, incluindo terminal Linux, controle de versões com GitHub, uso de contêineres Docker, acesso a bancos de dados públicos e computação em nuvem.
 
