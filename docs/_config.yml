@@ -1,3 +1,5 @@
 theme: minima
-title: My Bioinformatics Course
-description: A site for learning bioinformatics
+plugins:
+  - jekyll-sass-converter
+  - jekyll-seo-tag
+  - jekyll-github-metadata
