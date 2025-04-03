@@ -62,3 +62,6 @@ O ambiente prático pode ser acessado via **GitHub Codespaces**.
 
 ##  Como Contribuir
 Caso queira sugerir melhorias ou relatar problemas no material, sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
+
+
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/tactile/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/tactile/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-tactile.svg)](https://badge.fury.io/rb/jekyll-theme-tactile)
