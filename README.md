@@ -29,7 +29,7 @@ O curso terá **16 horas** de duração, divididas em dois dias, com metade do t
    - Introdução a bancos de dados como NCBI, SRA e Ensembl
    - Ferramentas para obtenção e manipulação de dados biológicos
 
-6. **Computação em Nuvem**
+6. [**Computação em Nuvem**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/cloud/README.md)
    - Conceitos gerais e serviços disponíveis (AWS, Google Cloud, Azure)
       - Execução de pipelines na nuvem com Snakemake e Nextflow.
 
