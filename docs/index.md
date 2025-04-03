@@ -8,7 +8,7 @@ O ambiente prático pode ser acessado via **GitHub Codespaces**.
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlfalco-bioinfo/debian_slim)
 
 ##  Tópicos Abordados
-1. [**Introdução à Bioinformática**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/docs/_layouts/intro.md))
+1. [**Introdução à Bioinformática**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/docs/_layouts/intro.md)
 
 2. [**Uso do Terminal Linux**](https://github.com/mlfalco-bioinfo/bioinformatics_course/tree/main/modulos/terminal/README.md)
 
