@@ -20,7 +20,7 @@ O curso terá **16 horas** de duração, divididas em dois dias, com metade do t
    - Criação e gerenciamento de repositórios
    - Utilização do GitHub Codespaces
 
-4. **Uso de Containers com Docker**
+4. [**Uso de Containers com Docker**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/docker/README.md)
    - Conceitos de contêineres e sua importância na bioinformática
    - Instalação e comandos básicos do Docker
    - Execução de pipelines bioinformáticos com Docker
