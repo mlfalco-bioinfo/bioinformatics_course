@@ -3,37 +3,24 @@ Este curso introdutório de bioinformática é voltado para aplicações em gen�
 
 O curso terá **16 horas** de duração, divididas em dois dias, com metade do tempo dedicado à teoria e a outra metade a exercícios práticos usando um ambiente virtual configurado no **GitHub Codespaces**.
 
+O ambiente prático pode ser acessado via **GitHub Codespaces**.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlfalco-bioinfo/debian_slim)
+
 ##  Tópicos Abordados
 1. [**Introdução à Bioinformática**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/intro/README.md)
-   - Definição e aplicações em genômica e metagenômica
-   - Workflow típico de uma análise bioinformática
 
 2. [**Uso do Terminal Linux**](https://github.com/mlfalco-bioinfo/bioinformatics_course/tree/main/modulos/terminal/README.md)
-   - Comandos básicos para navegação e manipulação de arquivos
-   - Introdução ao Bash scripting
-   - Gerenciamento de permissões e processos
 
 3. [**GitHub e Controle de Versão**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/github/README.md)
-   - Conceitos fundamentais do Git
-   - Criação e gerenciamento de repositórios
-   - Utilização do GitHub Codespaces
 
 4. [**Uso de Containers com Docker**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/docker/README.md)
-   - Conceitos de contêineres e sua importância na bioinformática
-   - Instalação e comandos básicos do Docker
-   - Execução de pipelines bioinformáticos com Docker
 
 5. [**Acesso a Bancos de Dados Públicos**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/db/README.md)
-   - Introdução a bancos de dados como NCBI, SRA e Ensembl
-   - Ferramentas para obtenção e manipulação de dados biológicos
 
 6. [**Computação em Nuvem**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/cloud/README.md)
-   - Conceitos gerais e serviços disponíveis (AWS, Google Cloud, Azure)
-      - Execução de pipelines na nuvem com Snakemake e Nextflow.
 
 7. [**Instalação e Uso de Softwares Bioinformática**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/bioinfo/README.md)
-   - Softwares essenciais: FastQC, Trimmomatic, BWA, Samtools
-   - Passo a passo de instalação e utilização
   
      
 ##  Ambiente do GitHub Codespaces
@@ -44,21 +31,18 @@ A imagem utilizada pode ser acessada no **DockerHub**
 [![Debian Bookworm-Slim](https://img.shields.io/badge/Debian-Bookworm--Slim-blue?logo=debian)](https://hub.docker.com/layers/library/debian/bookworm-slim/images/sha256-a6bd717f9210e22dba2a96b4b1bd5b5de06a7d18980996112fb14c0c13b6d699)
 
 
-##  Autor
-**Mateus Falco**, professor de Bioinformática, atuando na área de ensino e pesquisa em genômica e metagenômica.
-
-[![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?logo=academia)](http://lattes.cnpq.br/6393746504881064)
-
-
 ##  Como Acessar o Material
 Todo o conteúdo do curso está disponível neste repositório. Para acessar:
 ```bash
 git clone https://github.com/mlfalco-bioinfo/bioinformatics_course.git
 cd bioinformatics_course
 ```
-O ambiente prático pode ser acessado via **GitHub Codespaces**.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlfalco-bioinfo/debian_slim)
+##  Autor
+**Mateus Falco**, professor de Bioinformática, atuando na área de ensino e pesquisa em genômica e metagenômica.
+
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?logo=academia)](http://lattes.cnpq.br/6393746504881064)
+
 
 ##  Como Contribuir
 Caso queira sugerir melhorias ou relatar problemas no material, sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
