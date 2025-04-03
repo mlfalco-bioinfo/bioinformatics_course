@@ -60,7 +60,7 @@ cd bioinformatics_course
 ```
 O ambiente prático pode ser acessado via **GitHub Codespaces**.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlfalco-bioinfo/bioinformatics_course)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mlfalco-bioinfo/debian_slim)
 
 ##  Como Contribuir
 Caso queira sugerir melhorias ou relatar problemas no material, sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
