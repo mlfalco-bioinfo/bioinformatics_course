@@ -49,7 +49,8 @@ sudo systemctl enable --now docker
 ###  No macOS e Windows  
 
 Baixe e instale o **Docker Desktop**:  
-🔗 [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/)  
+[![Docker Desktop](https://img.shields.io/badge/Docker-Desktop-blue?logo=docker)](https://www.docker.com/products/docker-desktop/)
+
 
 
 ##  **Comandos Básicos do Docker**  
