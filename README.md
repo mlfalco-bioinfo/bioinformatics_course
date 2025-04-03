@@ -6,11 +6,11 @@ Este curso introdutório de bioinformática é voltado para aplicações em gen�
 O curso terá **16 horas** de duração, divididas em dois dias, com metade do tempo dedicado à teoria e a outra metade a exercícios práticos usando um ambiente virtual configurado no **GitHub Codespaces**.
 
 ## 📚 Tópicos Abordados
-1. [**Introdução à Bioinformática**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/intro/bioinfo.md))
+1. [**Introdução à Bioinformática**](https://github.com/mlfalco-bioinfo/bioinformatics_course/blob/main/modulos/intro/README.md)
    - Definição e aplicações em genômica e metagenômica
    - Workflow típico de uma análise bioinformática
 
-2. [**Uso do Terminal Linux**](https://github.com/mlfalco-bioinfo/bioinformatics_course/tree/main/modulos/terminal)
+2. [**Uso do Terminal Linux**](https://github.com/mlfalco-bioinfo/bioinformatics_course/tree/main/modulos/terminal/README.md)
    - Comandos básicos para navegação e manipulação de arquivos
    - Introdução ao Bash scripting
    - Gerenciamento de permissões e processos
